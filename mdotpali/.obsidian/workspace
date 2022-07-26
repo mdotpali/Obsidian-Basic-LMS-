@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "9ffbb9a0b45b2d55",
+    "type": "split",
+    "children": [
+      {
+        "id": "843a3f99654ff319",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "00-daily/2022-07-27.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78a2dbb11ed3dc1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "23043c3713ded0d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6702c4a72451cb04",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c7e0c2596a6c56dc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "627d7a3a10e606b8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "73e95ab81b022ef7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a0d88487644d450",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b69834a4e882720",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00-daily/2022-07-27.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "35e39a74eb0a4219",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00-daily/2022-07-27.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d0420e8e5d5d577",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "548e7abd8c135d02",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00-daily/2022-07-27.md"
+              }
+            }
+          },
+          {
+            "id": "a0a212dbeed88cbd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "843a3f99654ff319",
+  "lastOpenFiles": [
+    "11-projects/obsidian for nerds.md",
+    "00-daily/2022-07-27.md",
+    "11-projects/Video Zettelkasten.md",
+    "00-daily/2022-07-26.md",
+    "99-setup/daily.md",
+    "99-setup/projects.md",
+    "00-daily/2022-07-28.md",
+    "00-daily/2022-07-25.md",
+    "11-projects/Youtube Video Zettelkasten.md",
+    "00-daily/2022-07-23.md"
+  ]
+}

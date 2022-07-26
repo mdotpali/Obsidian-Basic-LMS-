@@ -1,0 +1,5 @@
+{
+  "folder": "00-daily",
+  "template": "99-setup/daily",
+  "autorun": true
+}
